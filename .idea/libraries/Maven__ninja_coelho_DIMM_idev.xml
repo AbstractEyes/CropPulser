@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: ninja.coelho:DIMM:idev">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/ninja/coelho/DIMM/idev/DIMM-idev.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.m2/repository/ninja/coelho/DIMM/idev/DIMM-idev-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/repository/ninja/coelho/DIMM/idev/DIMM-idev-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

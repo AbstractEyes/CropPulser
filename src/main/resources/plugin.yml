@@ -1,0 +1,21 @@
+name: AbsCropPulser
+main: com.abstractphil.croppulser.AbsCropPulser
+version: 1.0
+description: "Abs Crop Pulsers Plugin"
+depend: [RedItems, ConfigCore, WarCore]
+commands:
+  givepulser:
+    description: Gives a crop pulser to a player.
+    usage: pulsergive %player% amount
+  pulsercleanup:
+    description: cleans up the ghost pulsers manually.
+    usage: pulsercleanup
+  pulsercheck:
+    description: dumps all running pulsers to console feed.
+    usage: pulsercheck
+  pulserenable:
+    description: enables or disables the pulsers.
+    usage: pulserenable (true/false)
+  pulserreload:
+    description: reloads all pulsers.
+    usage: pulserreload

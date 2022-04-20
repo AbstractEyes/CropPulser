@@ -1,0 +1,27 @@
+{
+    "pulser-config": {
+        "pulser": {
+            "enabled": "true",
+            "messages": [
+                "Crops grew!"
+            ],
+            "name": "Crop Pulser 15x15",
+            "lore": ["Place this down to automatically grow crops."],
+            "material": "SEA_LANTERN",
+            "crop-range": 7,
+            "delay-timer": 1200,
+            "min-timer": 1800,
+            "max-timer": 3600,
+            "success-chance": 25,
+            "crop-blocks": [
+                "pumpkin_stem",
+                "melon_stem",
+                "carrot",
+                "cocoa_beans",
+                "netherstalk",
+                "wheat",
+                "potato"
+            ]
+        }
+    }
+}
